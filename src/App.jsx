@@ -4,7 +4,7 @@ import {Navbar, Hero, MainFeatures, Details, Pricing, Footer} from "./components
 
 const App = () => (
   <div className="bg-white w-full overflow-hidden">
-    <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter} top-0`}>
+    <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Navbar/>
       </div>
