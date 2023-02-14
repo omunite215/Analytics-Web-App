@@ -1,9 +1,9 @@
 
 # Analytics Web App
 
-This is my first project using Vite
+This is my project using Vite
 
-A website which is a product page of a Bank displaying its products features, clients , feddbackccs and many more.
+A website which is a product page of an Analytics displaying its products features, clients , feedbacks and many more.
 
 This Project is hosted in Netlify : [Analytics](https://analyticsbyom.netlify.app/)
 
@@ -18,7 +18,7 @@ npm (Node Package Manager)
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React.JS, and Bootstrap.
+Javascript, HTML, CSS, React.JS, and TailwindCSS.
 
 
 ## How to use this Repository?
@@ -57,12 +57,12 @@ The website should now be up and running on http://localhost:3000.
 
 - Modern UI/UX
 - Optimized.
-- FURTHER CHANGES WILL BE MADE SHORTLY MAKING IT RESPONSIVE.
+- Responsive
 
 
 ## Tech Stack
 
-**Client:** React, Redux, Bootstrap
+**Client:** React, Redux, TailwindCSS
 
 **Server:** Netlify
 
